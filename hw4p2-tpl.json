@@ -1,0 +1,14 @@
+[
+    {
+        "language": "english",
+        "s3url": [
+            "https://s3.us-east-2.amazonaws.com/hw4-tamoghna/English_Rec.wav"
+        ]
+    },
+    {
+        "language": "hindi",
+        "s3url": [
+            "https://s3.us-east-2.amazonaws.com/hw4-tamoghna/Hindi_Rec.wav"
+        ]
+    }
+]
